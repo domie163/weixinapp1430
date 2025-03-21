@@ -1,0 +1,328 @@
+{
+	"pages": [{
+		"path": "pages/login/login",
+		"style": {
+			"navigationBarBackgroundColor": "#71A842",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "登录"
+		}
+	},{
+		"path": "pages/register/register",
+		"style": {
+			"navigationBarBackgroundColor": "#71A842",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "注册"
+		}
+	},{
+		"path": "pages/forget/forget",
+		"style": {
+			"navigationBarBackgroundColor": "#71A842",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "忘记密码"
+		}
+	},{
+		"path": "pages/center/center",
+		"style": {
+			"navigationBarBackgroundColor": "#71A842",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "我的"
+		}
+	},{
+		"path": "pages/user-info/userinfo",
+		"style": {
+			"navigationBarBackgroundColor": "#71A842",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "用户信息"
+		}
+	}
+		,{
+			"path": "pages/recharge/recharge",
+			"style": {
+				"navigationBarBackgroundColor": "#71A842",
+				"navigationBarTextStyle": "white",
+				"navigationBarTitleText": "充值"
+			}
+		}
+
+ 	,{
+		"path": "pages/address/detail",
+		"style": {
+			"navigationBarBackgroundColor": "#71A842",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "添加地址"
+		}
+	},{
+		"path": "pages/address/list",
+		"style": {
+			"navigationBarBackgroundColor": "#71A842",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "我的地址"
+		}
+	}
+	,{
+		"path": "pages/cart/list",
+		"style": {
+			"navigationBarBackgroundColor": "#71A842",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "购物车展示"
+		}
+	},{
+		"path": "pages/cart/list2",
+		"style": {
+			"navigationBarBackgroundColor": "#71A842",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "我的购物车"
+		}
+	},{
+		"path": "pages/cart/add-or-update",
+		"style": {
+			"navigationBarBackgroundColor": "#71A842",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "购物车添加/修改"
+		}
+	},{
+		"path": "pages/cart/detail",
+		"style": {
+			"navigationBarBackgroundColor": "#71A842",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "购物车详情"
+		}
+	}
+	,{
+		"path": "pages/chat/list",
+		"style": {
+			"navigationBarBackgroundColor": "#71A842",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "客服聊天展示"
+		}
+	},{
+		"path": "pages/chat/list2",
+		"style": {
+			"navigationBarBackgroundColor": "#71A842",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "我的客服聊天"
+		}
+	},{
+		"path": "pages/chat/add-or-update",
+		"style": {
+			"navigationBarBackgroundColor": "#71A842",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "客服聊天添加/修改"
+		}
+	},{
+		"path": "pages/chat/detail",
+		"style": {
+			"navigationBarBackgroundColor": "#71A842",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "客服聊天详情"
+		}
+	}
+	,{
+		"path": "pages/gonggao/list",
+		"style": {
+			"navigationBarBackgroundColor": "#71A842",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "公告展示"
+		}
+	},{
+		"path": "pages/gonggao/list2",
+		"style": {
+			"navigationBarBackgroundColor": "#71A842",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "我的公告"
+		}
+	},{
+		"path": "pages/gonggao/add-or-update",
+		"style": {
+			"navigationBarBackgroundColor": "#71A842",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "公告添加/修改"
+		}
+	},{
+		"path": "pages/gonggao/detail",
+		"style": {
+			"navigationBarBackgroundColor": "#71A842",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "公告详情"
+		}
+	}
+	,{
+		"path": "pages/shangpin/list",
+		"style": {
+			"navigationBarBackgroundColor": "#71A842",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "商品展示"
+		}
+	},{
+		"path": "pages/shangpin/list2",
+		"style": {
+			"navigationBarBackgroundColor": "#71A842",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "我的商品"
+		}
+	},{
+		"path": "pages/shangpin/add-or-update",
+		"style": {
+			"navigationBarBackgroundColor": "#71A842",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "商品添加/修改"
+		}
+	},{
+		"path": "pages/shangpin/detail",
+		"style": {
+			"navigationBarBackgroundColor": "#71A842",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "商品详情"
+		}
+	}
+	,{
+		"path": "pages/shangpinCollection/list",
+		"style": {
+			"navigationBarBackgroundColor": "#71A842",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "商品收藏展示"
+		}
+	},{
+		"path": "pages/shangpinCollection/list2",
+		"style": {
+			"navigationBarBackgroundColor": "#71A842",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "我的商品收藏"
+		}
+	},{
+		"path": "pages/shangpinCollection/add-or-update",
+		"style": {
+			"navigationBarBackgroundColor": "#71A842",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "商品收藏添加/修改"
+		}
+	},{
+		"path": "pages/shangpinCollection/detail",
+		"style": {
+			"navigationBarBackgroundColor": "#71A842",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "商品收藏详情"
+		}
+	}
+	,{
+		"path": "pages/shangpinCommentback/list",
+		"style": {
+			"navigationBarBackgroundColor": "#71A842",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "商品评价展示"
+		}
+	},{
+		"path": "pages/shangpinCommentback/list2",
+		"style": {
+			"navigationBarBackgroundColor": "#71A842",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "我的商品评价"
+		}
+	},{
+		"path": "pages/shangpinCommentback/add-or-update",
+		"style": {
+			"navigationBarBackgroundColor": "#71A842",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "商品评价添加/修改"
+		}
+	},{
+		"path": "pages/shangpinCommentback/detail",
+		"style": {
+			"navigationBarBackgroundColor": "#71A842",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "商品评价详情"
+		}
+	}
+	,{
+		"path": "pages/shangpinOrder/list",
+		"style": {
+			"navigationBarTitleText": "商品订单"
+		}
+	},{
+		"path": "pages/shangpinOrder/confirm",
+		"style": {
+			"navigationBarTitleText": "订单确认"
+		}
+	}
+	,{
+		"path": "pages/yonghu/list",
+		"style": {
+			"navigationBarBackgroundColor": "#71A842",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "用户展示"
+		}
+	},{
+		"path": "pages/yonghu/list2",
+		"style": {
+			"navigationBarBackgroundColor": "#71A842",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "我的用户"
+		}
+	},{
+		"path": "pages/yonghu/add-or-update",
+		"style": {
+			"navigationBarBackgroundColor": "#71A842",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "用户添加/修改"
+		}
+	},{
+		"path": "pages/yonghu/detail",
+		"style": {
+			"navigationBarBackgroundColor": "#71A842",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "用户详情"
+		}
+	}
+			,{
+		"path": "pages/index/index",
+		"style": {
+			"navigationBarBackgroundColor": "#71A842",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "超市购物系统首页"
+		}
+	}
+	],
+	"globalStyle": {
+		"navigationBarTextStyle": "black",
+		"navigationBarTitleText": "超市购物系统",
+		"navigationBarBackgroundColor": "#F8F8F8",
+		"backgroundColor": "#F8F8F8"
+	},
+	"tabBar": {
+		"color": "#FFFFFF",
+		"selectedColor": "#fff",
+		"borderStyle": "black",
+		"backgroundColor": "#54C0CC",
+		"list": [{
+				"pagePath": "pages/index/index",
+				"iconPath": "static/tabs/index.png",
+				"selectedIconPath": "static/tabs/index1.png",
+				"text": "首页"
+			}
+			,{
+				"pagePath": "pages/gonggao/list",
+				"iconPath": "static/tabs/type.png",
+				"selectedIconPath": "static/tabs/type1.png",
+				"text": "公告"
+			}
+			,{
+				"pagePath": "pages/shangpin/list",
+				"iconPath": "static/tabs/type.png",
+				"selectedIconPath": "static/tabs/type1.png",
+				"text": "商品"
+			}
+			,{
+				"pagePath": "pages/center/center",
+				"iconPath": "static/tabs/mine.png",
+				"selectedIconPath": "static/tabs/mine1.png",
+				"text": "我的"
+			}
+		]
+	}
+	// "permission": {
+	// 	"scope.userLocation": {
+	// 		"desc": ""
+	// 	}
+	// },
+	// "requiredPrivateInfos": ["getLocation", "chooseLocation"]
+}
